@@ -1,5 +1,5 @@
 # MML
-Machine Learnin
+Machine Learning Library
 
 ## Example of usage
 ```cpp
